@@ -1,0 +1,714 @@
+[06-Oct-2022 14:59:32 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/notprocess-complaint.php on line 5
+[09-Oct-2022 09:00:48 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/change-password.php on line 5
+[09-Oct-2022 09:01:04 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/change-password.php on line 5
+[09-Oct-2022 09:12:52 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/change-password.php on line 5
+[09-Oct-2022 09:13:07 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/change-password.php on line 5
+[09-Oct-2022 09:13:18 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/change-password.php on line 5
+[09-Oct-2022 09:14:49 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/abisco/admin/change-password.php on line 5
+[12-Oct-2022 09:18:20 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/change-password.php on line 5
+[12-Oct-2022 10:03:08 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/user-logs.php on line 5
+[18-Oct-2022 22:41:48 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/inprocess-complaint.php on line 5
+[30-Oct-2022 08:33:44 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-view.php on line 2
+[30-Oct-2022 08:33:44 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-view.php on line 2
+[30-Oct-2022 08:33:44 UTC] PHP Fatal error:  require(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-view.php on line 2
+[30-Oct-2022 08:59:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-view.php on line 106
+[30-Oct-2022 09:02:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-view.php on line 106
+[30-Oct-2022 09:15:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fullcryp/public_html/counsel/admin/student-view.php on line 87
+[30-Oct-2022 09:15:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fullcryp/public_html/counsel/admin/student-view.php on line 87
+[30-Oct-2022 10:35:43 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 5
+[30-Oct-2022 10:58:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-view.php on line 166
+[30-Oct-2022 11:15:08 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 11:15:08 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 11:15:08 UTC] PHP Fatal error:  require(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 11:39:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:39:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:39:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:39:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:39:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:39:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:39:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:39:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:39:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 63
+[30-Oct-2022 11:39:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 63
+[30-Oct-2022 11:50:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:50:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:50:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:50:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:50:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:50:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:50:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:50:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:50:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 11:50:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 11:50:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 11:50:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 11:54:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:54:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:54:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:54:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:54:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:54:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:54:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:54:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:54:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 11:54:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 11:54:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 11:54:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 11:54:35 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 11:54:35 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 11:54:35 UTC] PHP Fatal error:  require(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 11:56:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-create.php on line 93
+[30-Oct-2022 11:56:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-create.php on line 93
+[30-Oct-2022 11:56:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-create.php on line 93
+[30-Oct-2022 11:56:53 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:56:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 11:56:53 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:56:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 11:56:53 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:56:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 11:56:53 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:56:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 11:56:53 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 11:56:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 11:56:53 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 11:56:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 12:01:11 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:01:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:01:11 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:01:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:01:11 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:01:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:01:11 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:01:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:01:11 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:01:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:01:11 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 12:01:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 12:01:25 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:01:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:01:25 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:01:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:01:25 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:01:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:01:25 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:01:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:01:25 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:01:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:01:25 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 12:01:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 64
+[30-Oct-2022 12:17:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:17:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:17:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:17:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:17:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:17:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:17:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:17:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:17:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:17:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:17:18 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:17:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:27:44 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:27:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:27:44 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:27:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:27:44 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:27:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:27:44 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:27:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:27:44 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:27:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:27:44 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:27:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:28:20 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:28:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:28:20 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:28:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:28:20 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:28:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:28:20 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:28:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:28:20 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:28:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:28:20 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:28:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:28:37 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:28:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:28:37 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:28:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:28:37 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:28:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:28:37 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:28:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:28:37 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:28:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:28:37 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:28:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:31:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:31:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:31:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:31:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 58
+[30-Oct-2022 12:31:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:31:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:31:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:31:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 60
+[30-Oct-2022 12:31:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:31:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 61
+[30-Oct-2022 12:31:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 12:31:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 65
+[30-Oct-2022 18:06:20 Asia/Kolkata] PHP Warning:  include(msg.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-create.php on line 39
+[30-Oct-2022 18:06:20 Asia/Kolkata] PHP Warning:  include(msg.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-create.php on line 39
+[30-Oct-2022 18:06:20 Asia/Kolkata] PHP Warning:  include(): Failed opening 'msg.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-create.php on line 39
+[30-Oct-2022 12:36:26 UTC] PHP Notice:  Undefined index: fullname in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:36:26 UTC] PHP Notice:  Undefined index: email in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:36:26 UTC] PHP Notice:  Undefined index: contactno in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 12:36:35 UTC] PHP Notice:  Undefined index: fullname in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:36:35 UTC] PHP Notice:  Undefined index: email in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:36:35 UTC] PHP Notice:  Undefined index: contactno in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 18:06:37 Asia/Kolkata] PHP Warning:  include(msg.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-create.php on line 39
+[30-Oct-2022 18:06:37 Asia/Kolkata] PHP Warning:  include(msg.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-create.php on line 39
+[30-Oct-2022 18:06:37 Asia/Kolkata] PHP Warning:  include(): Failed opening 'msg.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-create.php on line 39
+[30-Oct-2022 18:12:18 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 50
+[30-Oct-2022 12:42:25 UTC] PHP Notice:  Undefined index: fullname in /home/fullcryp/public_html/counsel/admin/code.php on line 56
+[30-Oct-2022 12:42:25 UTC] PHP Notice:  Undefined index: email in /home/fullcryp/public_html/counsel/admin/code.php on line 57
+[30-Oct-2022 12:42:25 UTC] PHP Notice:  Undefined index: contactno in /home/fullcryp/public_html/counsel/admin/code.php on line 59
+[30-Oct-2022 18:14:22 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[30-Oct-2022 18:14:28 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[30-Oct-2022 12:44:34 UTC] PHP Notice:  Undefined index: fullname in /home/fullcryp/public_html/counsel/admin/student-create.php on line 7
+[30-Oct-2022 18:16:03 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[30-Oct-2022 12:46:26 UTC] PHP Notice:  Undefined variable: fullname in /home/fullcryp/public_html/counsel/admin/student-create.php on line 12
+[30-Oct-2022 18:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[30-Oct-2022 13:02:00 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:00 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:00 UTC] PHP Fatal error:  require(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:52 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:52 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:52 UTC] PHP Fatal error:  require(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:58 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:58 UTC] PHP Warning:  require(dbcon.php): failed to open stream: No such file or directory in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 13:02:58 UTC] PHP Fatal error:  require(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 3
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:19 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:26 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 85
+[30-Oct-2022 13:14:45 UTC] PHP Notice:  Undefined variable: con in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 37
+[30-Oct-2022 13:14:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 37
+[30-Oct-2022 13:14:45 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 38
+[30-Oct-2022 13:14:45 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 39
+[30-Oct-2022 13:14:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 39
+[30-Oct-2022 13:14:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 41
+[30-Oct-2022 13:14:51 UTC] PHP Notice:  Undefined variable: con in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 37
+[30-Oct-2022 13:14:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 37
+[30-Oct-2022 13:14:51 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 38
+[30-Oct-2022 13:14:51 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 39
+[30-Oct-2022 13:14:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 39
+[30-Oct-2022 13:14:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 41
+[30-Oct-2022 13:14:55 UTC] PHP Notice:  Undefined variable: con in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 37
+[30-Oct-2022 13:14:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 37
+[30-Oct-2022 13:14:55 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 38
+[30-Oct-2022 13:14:55 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 39
+[30-Oct-2022 13:14:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 39
+[30-Oct-2022 13:14:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 41
+[30-Oct-2022 13:41:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 13:43:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 13:43:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 13:45:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 13:46:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 13:46:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 13:46:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 14:12:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 14:12:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fullcryp/public_html/counsel/admin/student-edit.php on line 141
+[30-Oct-2022 16:13:43 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 5
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 98
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 98
+[30-Oct-2022 16:14:05 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:14:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:14:05 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:14:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 90
+[30-Oct-2022 21:44:11 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 98
+[30-Oct-2022 21:46:33 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 96
+[30-Oct-2022 21:46:56 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 96
+[30-Oct-2022 21:50:27 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 95
+[30-Oct-2022 21:51:59 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 96
+[30-Oct-2022 21:52:08 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 96
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:12 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 16:25:13 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:25:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:25:13 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:25:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:17 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 16:25:21 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:25:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:25:21 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:25:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:34 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 16:25:36 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:25:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:25:36 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:25:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: student in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 16:26:23 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:26:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:26:23 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:26:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 21:56:36 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 93
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:43 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 16:34:48 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:34:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:34:48 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:34:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:04:51 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:05:02 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 99
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 22:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 97
+[30-Oct-2022 16:40:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:40:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:40:14 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:40:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 22:15:13 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[30-Oct-2022 16:57:36 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:57:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:57:36 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:57:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:59:57 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:59:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 16:59:57 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 16:59:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:02:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 17:02:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 17:02:08 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:02:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:03:59 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 17:03:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 17:03:59 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:03:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:04:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 17:04:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 7
+[30-Oct-2022 17:04:19 UTC] PHP Notice:  Undefined variable: db in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:04:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fullcryp/public_html/counsel/admin/code.php on line 10
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:06 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:17 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:16:24 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:17:49 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:31 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:35 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 123
+[30-Oct-2022 17:18:41 UTC] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 124
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 22:54:53 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 116
+[30-Oct-2022 23:07:18 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[30-Oct-2022 23:12:54 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 4
+[30-Oct-2022 23:13:39 UTC] PHP Notice:  Undefined index: alogin in /home/fullcryp/public_html/counsel/admin/manage-students.php on line 4
+[31-Oct-2022 04:45:26 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/fullcryp/public_html/counsel/admin/student-create.php on line 65
+[31-Oct-2022 17:42:47 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:42:58 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:00 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:02 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:04 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:06 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:08 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:32 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:44 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:50 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:53 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:43:59 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 17:55:32 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:20:42 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:20:46 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:20:54 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:20:58 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:21:02 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:21:34 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:35:45 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:36:00 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[31-Oct-2022 18:38:47 America/New_York] PHP Notice:  Undefined index: pincode in /home/studdgqz/public_html/admin/studentprofile.php on line 92
+[01-Nov-2022 04:25:45 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/studdgqz/public_html/admin/student-create.php on line 65
+[01-Nov-2022 04:25:50 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/studdgqz/public_html/admin/student-create.php on line 65
+[01-Nov-2022 04:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/studdgqz/public_html/admin/student-create.php on line 65
+[31-Oct-2022 18:58:32 America/New_York] PHP Notice:  Undefined index: alogin in /home/studdgqz/public_html/admin/logout.php on line 3
+[01-Nov-2022 21:41:32 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/studdgqz/public_html/admin/student-create.php on line 65
